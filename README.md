@@ -1,3 +1,4 @@
 # Genesis
 An opensource DNIF project
-czdmxcbmsdn
+
+# Objectives
