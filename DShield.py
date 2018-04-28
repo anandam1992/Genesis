@@ -4,7 +4,7 @@ import os
 
 inteltype = ['INTEL_ADDR']
 path = os.environ["WORKDIR"]
-with open(path + "/enrichment_plugins/DShield/dnifconfig.yaml", 'r') as ymlfile:
+with open(path + "/enrichment_plugins/DShield/dnifconfig.yml", 'r') as ymlfile:
     cfg = yaml.load(ymlfile)
 
 
