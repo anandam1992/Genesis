@@ -1,2 +1,0 @@
-enrichment_plugin:
-  DSHIELD_IP_SOURCE: https://isc.sans.edu/feeds/suspiciousdomains_Low.txt
