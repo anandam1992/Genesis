@@ -11,7 +11,7 @@ Task 1 : Initially conducted a team  meeting among the group members to communic
 Task 2 :Completed the insallation process for DNIF using Ubuntu as the operating system as suggested by the support system.</br>
 Task 3 :We have come up with the list of multiple real-time datasets which can  be used for analysis.</br>
 Task 4 :We have started coding in Phyton in order to retrive the datasets.</br>
-Task 5 :With the help of the support team, uploading the sample dataset using event tore feature in DNIF and resolvig the connection issues and understandig DQL to fetch data from the created event store.</br>
+Task 5 :With the help of the support team, uploading the sample dataset using event store feature in DNIF and resolvig the connection issues and understandig DQL to fetch data from the created event store.</br>
 
 ## Steps to be Carried out
  Step 1: Identification of dynamic dataset for analysis using DNIF platform. </br>
